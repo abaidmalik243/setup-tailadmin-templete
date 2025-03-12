@@ -63,6 +63,7 @@ const navItems: NavItem[] = [
     icon: <PageIcon />,
     subItems: [
       { name: "Blank Page (N/A)", path: "/blank", pro: false },
+      { name: "WhatsApp API Page", path: "/whatsapp-api-view", pro: false },
       { name: "404 Error (N/A)", path: "/error-404", pro: false },
     ],
   },
